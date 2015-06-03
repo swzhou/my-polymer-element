@@ -1,0 +1,38 @@
+{
+  "name": "my-polymer-element",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "my-polymer-element.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/my-polymer-element/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "dcc2bc5117",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "dcc2bc5117094f35863050f1be43cab238f2fb42"
+  },
+  "_source": "git://github.com/swzhou/my-polymer-element.git",
+  "_target": "master",
+  "_originalSource": "swzhou/my-polymer-element",
+  "_direct": true
+}
